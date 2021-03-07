@@ -1,0 +1,12 @@
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\bin\Debug\netcoreapp3.1\Subsequence.exe
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\bin\Debug\netcoreapp3.1\Subsequence.deps.json
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\bin\Debug\netcoreapp3.1\Subsequence.runtimeconfig.json
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\bin\Debug\netcoreapp3.1\Subsequence.runtimeconfig.dev.json
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\bin\Debug\netcoreapp3.1\Subsequence.dll
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\bin\Debug\netcoreapp3.1\Subsequence.pdb
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\obj\Debug\netcoreapp3.1\Subsequence.AssemblyInfoInputs.cache
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\obj\Debug\netcoreapp3.1\Subsequence.AssemblyInfo.cs
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\obj\Debug\netcoreapp3.1\Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\obj\Debug\netcoreapp3.1\Subsequence.dll
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\obj\Debug\netcoreapp3.1\Subsequence.pdb
+C:\Users\Huy Le\source\repos\Subsequence\Subsequence\obj\Debug\netcoreapp3.1\Subsequence.genruntimeconfig.cache
